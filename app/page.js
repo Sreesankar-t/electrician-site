@@ -11,7 +11,7 @@ export default function Home() {
                     src="/images/bg2.jpeg"
                     alt="Description of the image"
                     layout="fill"
-                    objectFit="cover"
+                    objectFit="fit"
                 />
             </div>
 
